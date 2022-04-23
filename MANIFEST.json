@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        {
+            "name": "sample-package",
+            "version": "1.0",
+            "description": "I'm just a sample package, you can remove me!",
+            "file": "sample-package.zip"
+        }
+    ]
+}
